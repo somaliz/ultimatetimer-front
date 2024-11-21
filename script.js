@@ -1,4 +1,4 @@
-let BACKEND_URL = 'http://localhost:3000';
+let BACKEND_URL = 'https://qymhaim2mr.eu-central-1.awsapprunner.com';
 
 
 if (BACKEND_URL[BACKEND_URL.length - 1] === '/') {
